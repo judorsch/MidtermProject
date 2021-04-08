@@ -1,0 +1,8 @@
+datetime
+requests
+pandas
+time
+matplotlib.pyplot
+numpy
+scipy.stats
+statistics
